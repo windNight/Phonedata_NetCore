@@ -12,16 +12,18 @@
     <Version>1.0.0</Version>
     <Authors>windnight</Authors>
     <Company></Company>
+    <PackageId>Phonedata_NetCore</PackageId>
     <Description>Phonedata_NetCore</Description>
     <PackageReleaseNotes>Phonedata_NetCore</PackageReleaseNotes>
     <Title>$(AssemblyName)</Title>
-    <PackageIconUrl>//</PackageIconUrl>
+    <PackageIcon>//</PackageIcon>
     <PackageProjectUrl>https://github.com/windnight/Phonedata_NetCore</PackageProjectUrl>
     <PackageLicenseUrl>//</PackageLicenseUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\Phonedata_NetCore.xml</DocumentationFile>
   </PropertyGroup>
- 
+
   <ItemGroup>
     <EmbeddedResource Include="phone.dat">
       <LogicalName>phone.dat</LogicalName>
