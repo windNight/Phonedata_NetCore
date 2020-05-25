@@ -33,7 +33,7 @@ OverheadJitting  1: 1 op, 300100.00 ns, 300.1000 us/op
  
 ## example code
 ```
-Install-Package Phonedata_NetCore -Version 1.1.0
+Install-Package Phonedata_NetCore -Version 1.0.0
 ```
 
 ```csharp
