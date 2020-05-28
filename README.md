@@ -1,4 +1,4 @@
-## phonedata.bat analysis With NetCore
+## phonedata.dat analysis With NetCore
 
  modify from [Phonedata](https://github.com/sndnvaps/Phonedata)
 
@@ -65,7 +65,7 @@ ZipCode: 310000
 Province: 浙江
 ```
 
-## 手机号码库
+## 手机号码库(phonedata.dat)
 
 - 归属地信息库文件大小：4,040,893 字节
 - 归属地信息库最后更新：2020年04月
